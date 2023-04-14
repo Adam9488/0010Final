@@ -1,12 +1,18 @@
 # 0010Final
 
-## Team name: Extra
+## Team name: 
+Extra
 
-## Adam Smith ads207@pitt.edu, David Pultynovich dzp7@pitt.edu
+## Group Members:
+Adam Smith ads207@pitt.edu, David Pultynovich dzp7@pitt.edu
 
-## 
+## Notebooks:
+We combined our individual notebooks into one final notebook. We saved checkpoints of our individual notebooks with our respective names into a checkpoints folder
 
-## Canvas group number 38
+## Canvas group number:
+38
 
-Description and Links to the datasets used
-A one sentence overview of your repository, meant for someone who is not familiar with the project
+## Datasets:
+Our datasets are included in the github. 
+
+## One Sentence Overview:
